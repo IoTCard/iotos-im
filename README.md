@@ -15,7 +15,7 @@
 
 - [IoTOS](https://gitee.com/chinaiot/iotos) 基于[RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue?_from=gitee_search) 开发 适配国际化多语言 用于IoTCard 管理业务以高效、健壮、灵活设计 SaaS、多语言、机器人推送、自动化管理、数据同步多类型算法为主要业务
 - [IoTOS-App](https://gitee.com/chinaiot/iotos-app) 基于[RuoYi-App](https://gitee.com/y_project/RuoYi-App?_from=gitee_search) 开发 适配国际化多语言 UI 使用 [uView](https://gitee.com/umicro/uView)
-- [IoTOS-IM](https://gitee.com/chinaiot/iotos-im)  基于 [J-IM](https://gitee.com/xchao/j-im?_from=gitee_search)([t-io](https://gitee.com/tywo45/t-io?_from=gitee_search) 网络框架 谭聊原型核心) 延展开发**
+- [IoTOS-IM](https://gitee.com/chinaiot/iotos-im)  基于 [J-IM](https://gitee.com/xchao/j-im?_from=gitee_search) 延展开发**
 
 
 中文 / [English](README.en.md)
@@ -31,7 +31,7 @@
 
 > 其他组合项目框架
 - [IoTOS](https://gitee.com/chinaiot/iotos) 一款高效实用 IoTCard 管理 & 运营系统
-- [IoTOS-App](https://gitee.com/chinaiot/iotos-im) 基于[RuoYi-App](https://gitee.com/y_project/RuoYi-App?_from=gitee_search) 开发 适配国际化多语言 UI 使用 [uView](https://gitee.com/umicro/uView) ，集成 [J-IM](https://gitee.com/xchao/j-im?_from=gitee_search)([t-io](https://gitee.com/tywo45/t-io?_from=gitee_search) 网络框架 谭聊原型核心)
+- [IoTOS-App](https://gitee.com/chinaiot/iotos-im) 基于[RuoYi-App](https://gitee.com/y_project/RuoYi-App?_from=gitee_search) 开发 适配国际化多语言 UI 使用 [uView](https://gitee.com/umicro/uView) ，集成 [J-IM](https://gitee.com/xchao/j-im?_from=gitee_search)
 
 
 > 基于 [J-IM](https://gitee.com/xchao/j-im?_from=gitee_search) 架构集成至 [IoTOS](https://gitee.com/chinaiot/iotos) 与 [IoTOS-App](https://gitee.com/chinaiot/iotos-im) 网络通信 【在此感谢开源生态大佬们的肩膀！】
