@@ -13,7 +13,7 @@
 
 - [IoTOS](https://gitee.com/chinaiot/iotos) is developed based on [RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue?_from=gitee_search) for international multilingual use The IoTCard management business focuses on efficient, robust, and flexible design of SaaS, multilingual, robot push, automated management, and data synchronization multi-type algorithms.
 - [IoTOS-App](https://gitee.com/chinaiot/iotos-app) developed based on [RuoYi-App](https://gitee.com/y_project/RuoYi-App?_from=gitee_search) Use [uView](https://gitee.com/umicro/uView) to optimize multilingual UI
-- [IoTOS-IM](https://gitee.com/chinaiot/iotos-im) Based on [J-IM](https://gitee.com/xchao/j-im?_from=gitee_search)([t- io](https://gitee.com/tywo45/t-io?_from=gitee_search) network framework Tan chat prototype core) extension development
+- [IoTOS-IM](https://gitee.com/chinaiot/iotos-im) Based on [J-IM](https://gitee.com/xchao/j-im?_from=gitee_search)extension development
 
 
 English / [中文](README.md)
@@ -29,7 +29,7 @@ English / [中文](README.md)
 
 > Other Portfolio Project Frameworks
 - [IoTOS](https://gitee.com/chinaiot/iotos) An efficient and practical IoTCard management & operation system
-- [IoTOS-App](https://gitee.com/chinaiot/iotos-im) developed based on [RuoYi-App](https://gitee.com/y_project/RuoYi-App?_from=gitee_search) Multilingual UI using [uView](https://gitee.com/umicro/uView), integrated [J-IM](https://gitee.com/xchao/j-im?_from=gitee_search)([t -io](https://gitee.com/tywo45/t-io?_from=gitee_search) network framework Tan chat prototype core)
+- [IoTOS-App](https://gitee.com/chinaiot/iotos-im) developed based on [RuoYi-App](https://gitee.com/y_project/RuoYi-App?_from=gitee_search) Multilingual UI using [uView](https://gitee.com/umicro/uView), integrated [J-IM](https://gitee.com/xchao/j-im?_from=gitee_search)network framework Tan chat prototype core)
 
 
 > Based on [J-IM](https://gitee.com/xchao/j-im?_from=gitee_search) architecture integrated into [IoTOS](https://gitee.com/chinaiot/iotos) and [IoTOS-App ](https://gitee.com/chinaiot/iotos-im) network communication
